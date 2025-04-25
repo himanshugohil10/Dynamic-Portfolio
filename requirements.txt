@@ -7,3 +7,4 @@ seaborn
 scikit-learn 
 scipy 
 plotly
+pandas_datareader
